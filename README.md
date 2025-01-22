@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced, css, Html, MongoDB, MySql, Node.js,javascript, React.js, and backend development.
 - 💞️ I’m currently seeking job opportunities as a Full Stack Developer.
       I’m also open to collaborating on open-source projects..
-- 📫 How to reach me: Email: vatikamalwa127@gmail.com , www.linkedin.com/in/vatika-malwa-360101278 ,GitHub:Vatikamalwa127
+- 📫 How to reach me: Email: vatikamalwa127@gmail.com , www.linkedin.com/in/vatika-malwa-360101278 ,https://github.com/Vatikamalwa127
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love solving puzzles and can spend hours debugging code—it feels like solving a mystery!
 
